@@ -1,0 +1,5 @@
+Download the branch 0.1.0 (With guide + README)
+Extract the zip file
+open termux
+run mv /path/to/extracted/cr_batbinexe /data/data/com.termux/files/usr/bin
+now run batbinexe SCRIPT.bat // make a file with any name you like and replace SCRIPT with your name
